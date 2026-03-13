@@ -17,7 +17,7 @@
 </h3>
 
 <p align="center">
-I design and build intelligent, scalable backend systems that solve real-world problems using modern computer technology.
+I design and build intelligent, scalable systems that solve real-world problems using modern computer technology.
 </p>
 
 ---
