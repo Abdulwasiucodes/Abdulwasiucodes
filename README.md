@@ -123,7 +123,7 @@ I design and build intelligent, scalable systems that solve real-world problems 
 # 🤝 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/abdulraufu-wasiu-701b60296">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/abdulwasiucodes">
