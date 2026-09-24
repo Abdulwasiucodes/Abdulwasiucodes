@@ -14,7 +14,7 @@
 ---
 
 <h3 align="center">
-☁️ Aspiring Cloud Engineer | Software Developer | Cybersecurity Enthusiast
+☁️Cloud Engineer | Software Developer |  Aspiring Cybersecurity
 </h3>
 
 <p align="center">
